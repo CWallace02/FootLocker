@@ -3,6 +3,7 @@ h2{
   color:red
 }
 
-
-
-
+body{background:black}
+p {color:white;text-align:left}
+ol {color:white;text-align:left}
+h1 {color:white;text-align:center}
